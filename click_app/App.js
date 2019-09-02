@@ -27,7 +27,7 @@ import {
 const App = () => {
   return (
     <View>
-      <Text>These changes are from master</Text>
+      <Text>These changes are from master new</Text>
     </View>
   );
 };
