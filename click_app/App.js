@@ -27,7 +27,7 @@ import {
 const App = () => {
   return (
     <View>
-      <Text>Hello World</Text>
+      <Text>These changes are from master</Text>
     </View>
   );
 };
