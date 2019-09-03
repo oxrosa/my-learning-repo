@@ -25,6 +25,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 const App = () => {
+//Test
   return (
     <View>
       <Text>Again some changes</Text>
